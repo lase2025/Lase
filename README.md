@@ -44,7 +44,7 @@
 
     - **For RQ1**, we run the benchmark `Antlrjava` in 6 modes for 6 minutes to explain the artifact. The 6 modes are  ["BFS","DFS","GSDSE","NS","GS_DFS","GS_BFS"], which represent GADSE under the BFS strategy, GADSE under the DFS strategy, Lase, GADSE with new search strategy, GADSE with grammar synthesis method under the DFS strategy and the BFS strategy, respectively.
 
-    - Please **wait for about max{(6 / CoreNum) ,1 }* 6 mins** and the results are displayed as follows.
+    - Please **wait for about max{(6 / CoreNum) ,1 }\* 6 mins** and the results are displayed as follows.
 
       ![image-20250628124912394](./images/antlrjava.png)
 
