@@ -178,7 +178,7 @@
     
     11. done.
     
-    - **Note that the above instructions do the same thing like in run_all.sh. However, following the above instructions you can solely run one benchmark in one mode. **
+    - **Note that the above instructions do the same thing like in run_all.sh. However, following the above instructions you can solely run one benchmark in one mode.**
     - **Note that with the second group of instructions, you may not  get the tables or figures like in our paper. But we will give the guidance to understand the running output.**
   
 - <a name="visualization"></a>Get the tables or figures like in our paper.
