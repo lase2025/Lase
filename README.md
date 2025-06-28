@@ -161,7 +161,7 @@
        - **python3 run_precision.py [processNum] [benchName] [mode 1-4] [run_times]**
        - **python3 run_precision.py [processNum]**
        - **python3 run_precision.py [benchName] [mode 1-4]**
-       - **python3 run_precision.py [processNum] [benchName] [mode 1-4] **
+       - **python3 run_precision.py [processNum] [benchName] [mode 1-4]**
     
     9. **cd /home/Lase/grammar/vada** 
     
